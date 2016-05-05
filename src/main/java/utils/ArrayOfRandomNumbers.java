@@ -1,4 +1,4 @@
-package array_of_random_numbers;
+package utils;
 
 /**
  * Created by Mayer Roman on 04.05.2016.

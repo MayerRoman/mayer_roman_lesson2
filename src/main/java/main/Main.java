@@ -1,6 +1,6 @@
 package main;
 
-import array_of_random_numbers.ArrayOfRandomNumbers;
+import utils.ArrayOfRandomNumbers;
 import search_and_sort.SearchAndSort;
 import search_and_sort.impl.BinarySearchAndQuickSort;
 import search_and_sort.impl.InterpolationSearchAndCocktailSort;
